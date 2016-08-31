@@ -1,0 +1,589 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rara Clean 1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Jan 29 2016 12:31:33 GMT+0545 (Nepal Standard Time)\n"
+"POT-Revision-Date: Fri Jan 29 2016 12:47:08 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: Rara Clean <rara-clean@raratheme.com>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2"
+
+#: ../404.php:23
+msgid "This is somewhat embarrassing, is not it?"
+msgstr ""
+
+#: ../404.php:25
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../archive.php:31 ../page.php:46 ../search.php:39 ../Templates/nosidebar-
+#: template.php:43 ../Templates/sidebar-template.php:42
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:35 ../comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:36 ../comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-fullwidth.php:66 ../content-page.php:66 ../content-search.php:76 ..
+#: /content-single.php:71 ../content.php:72
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-search.php:85 ../content.php:81
+msgid "Read more"
+msgstr ""
+
+#: ../content.php:22 ../inc/template-tags.php:118
+msgid "Leave a comment"
+msgstr ""
+
+#: ../content.php:22 ../inc/template-tags.php:118
+msgid "1 Comment"
+msgstr ""
+
+#: ../content.php:22 ../inc/template-tags.php:118
+#, php-format
+msgid "% Comments"
+msgstr ""
+
+#: ../footer.php:18
+msgid "Copyright &copy;"
+msgstr ""
+
+#: ../footer.php:24
+msgid "Theme by:"
+msgstr ""
+
+#: ../footer.php:27
+msgid "Powered by "
+msgstr ""
+
+#: ../footer.php:28
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../functions.php:65
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:107
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:120
+msgid "Footer First"
+msgstr ""
+
+#: ../functions.php:129
+msgid "Footer Second"
+msgstr ""
+
+#: ../functions.php:138
+msgid "Footer Third"
+msgstr ""
+
+#: ../header.php:31
+msgid "Skip to content"
+msgstr ""
+
+#: ../options.php:23
+msgid "One"
+msgstr ""
+
+#: ../options.php:24
+msgid "Two"
+msgstr ""
+
+#: ../options.php:25
+msgid "Three"
+msgstr ""
+
+#: ../options.php:26
+msgid "Four"
+msgstr ""
+
+#: ../options.php:27
+msgid "Five"
+msgstr ""
+
+#: ../options.php:56
+msgid "--choose--"
+msgstr ""
+
+#: ../options.php:69
+msgid "Home Page Options"
+msgstr ""
+
+#: ../options.php:81
+msgid "Upload Logo"
+msgstr ""
+
+#: ../options.php:111
+msgid "Featured Slider Option"
+msgstr ""
+
+#: ../options.php:116
+msgid "Featured Slider Post/Page #1"
+msgstr ""
+
+#: ../options.php:123
+msgid "Featured Slider Post/Page #2"
+msgstr ""
+
+#: ../options.php:130
+msgid "Featured Slider Post/Page #3"
+msgstr ""
+
+#: ../options.php:137
+msgid "Featured Slider Post/Page #4"
+msgstr ""
+
+#: ../options.php:144
+msgid "Featured Slider Post/Page #5"
+msgstr ""
+
+#: ../options.php:152
+msgid "The following are the steps on how to use the Featured Slider. "
+msgstr ""
+
+#: ../options.php:153
+msgid ""
+"1. Create a post/page and add a featured image to it. <br>  2. Select "
+"Post/Page that you want to display in the featured slider."
+msgstr ""
+
+#: ../search.php:24
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:52
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+#: ../inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:82
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: ../inc/template-tags.php:87
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: ../inc/template-tags.php:104 ../inc/template-tags.php:110
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:106
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:112
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:122
+msgid "Edit"
+msgstr ""
+
+#: ../inc/template-tags.php:139
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:141
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:143
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:145
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:145
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../inc/template-tags.php:147
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:147
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../inc/template-tags.php:149
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:149
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: ../inc/template-tags.php:152
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: ../inc/template-tags.php:154
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: ../inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: ../inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: ../inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: ../inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: ../inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: ../inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: ../inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: ../inc/template-tags.php:171
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:175
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:177
+msgid "Archives"
+msgstr ""
+
+#. Base ID
+#: ../inc/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr ""
+
+#: ../inc/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr ""
+
+#: ../inc/widget-recent-post.php:72
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../inc/widget-recent-post.php:98 ../inc/widget-recent-post.php:140
+msgid "Recent Posts"
+msgstr ""
+
+#: ../inc/widget-recent-post.php:106
+msgid "Title"
+msgstr ""
+
+#: ../inc/widget-recent-post.php:111
+msgid "Number of Posts"
+msgstr ""
+
+#: ../inc/widget-recent-post.php:117
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: ../inc/widget-recent-post.php:122
+msgid "Show Post Date"
+msgstr ""
+
+#: ../option-panel/includes/class-options-media-uploader.php:60
+msgid "No file chosen"
+msgstr ""
+
+#: ../option-panel/includes/class-options-media-uploader.php:63 ../option-
+#: panel/includes/class-options-media-uploader.php:116
+msgid "Upload"
+msgstr ""
+
+#: ../option-panel/includes/class-options-media-uploader.php:65 ../option-
+#: panel/includes/class-options-media-uploader.php:78 ../option-
+#: panel/includes/class-options-media-uploader.php:117
+msgid "Remove"
+msgstr ""
+
+#: ../option-panel/includes/class-options-media-uploader.php:68
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: ../option-panel/includes/class-options-media-uploader.php:92
+msgid "View File"
+msgstr ""
+
+#: ../option-panel/includes/class-options-rara-admin.php:89 ../option-
+#: panel/includes/class-options-rara-admin.php:90
+msgid "Theme Options"
+msgstr ""
+
+#: ../option-panel/includes/class-options-rara-admin.php:194
+msgid "Theme Options by"
+msgstr ""
+
+#: ../option-panel/includes/class-options-rara-admin.php:203
+msgid "View Demo"
+msgstr ""
+
+#: ../option-panel/includes/class-options-rara-admin.php:223
+msgid "Save All Changes"
+msgstr ""
+
+#: ../option-panel/includes/class-options-rara-admin.php:224
+msgid "Restore Defaults"
+msgstr ""
+
+#: ../option-panel/includes/class-options-rara-admin.php:224
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../option-panel/includes/class-options-rara-admin.php:255
+msgid "Default options restored."
+msgstr ""
+
+#: ../option-panel/includes/class-options-rara-admin.php:309
+msgid "Options saved."
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:313
+msgid "No Repeat"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:314
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:315
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:316
+msgid "Repeat All"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:328
+msgid "Top Left"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:329
+msgid "Top Center"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:330
+msgid "Top Right"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:331
+msgid "Middle Left"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:332
+msgid "Middle Center"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:333
+msgid "Middle Right"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:334
+msgid "Bottom Left"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:335
+msgid "Bottom Center"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:336
+msgid "Bottom Right"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:348
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:349
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:421
+msgid "Normal"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:422
+msgid "Italic"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:423
+msgid "Bold"
+msgstr ""
+
+#: ../option-panel/includes/class-options-sanitization.php:424
+msgid "Bold Italic"
+msgstr ""
+
+#. Name of the template
+msgid "No sidebar page Template"
+msgstr ""
+
+#. Name of the template
+msgid "Sidebar Template"
+msgstr ""
+
+#. Name of the theme
+msgid "Rara Clean"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://raratheme.com/theme/rara-clean/"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Rara Clean is a simple and clean WordPress blog theme. It is responsive and "
+"adopts to various screen sizes, ensuring that your content is perfectly "
+"displayed to the visitors using tablets and mobile devices. If you are "
+"looking for a clean and professional blog theme that compliments your "
+"visuals and also provides you ample space for text, Rara Clean is perfect "
+"for you. Along with the clean design the theme comes with Theme Options and "
+"includes featured Slider to highlight your posts and pages. It also has 3 "
+"widgets under the main content. This theme is translation ready and is "
+"currently translated in Russian, Chinese, French, Danish, Portuguese, Dutch, "
+"German and Spanish. Check out Theme Demo at http://demo.raratheme.com/rara-"
+"clean/"
+msgstr ""
+
+#. Author of the theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.raratheme.com/"
+msgstr ""

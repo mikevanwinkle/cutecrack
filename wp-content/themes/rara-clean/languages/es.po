@@ -1,0 +1,429 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-06-09 12:23+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:23
+msgid "This is somewhat embarrassing, is not it?"
+msgstr ""
+
+#: 404.php:25
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:38 page.php:46 search.php:39 sidebar-template.php:42
+#: nosidebar-template.php:43
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: content.php:67 content-page.php:76 content-search.php:76
+#: content-single.php:73
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content.php:76 content-search.php:85
+msgid "Read more"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: footer.php:18
+msgid "Copyright &copy;"
+msgstr ""
+
+#: footer.php:26
+msgid "Theme by:"
+msgstr ""
+
+#: footer.php:27
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgid "Previous post link"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Next post link"
+msgstr ""
+
+#: inc/template-tags.php:82
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:87
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:106
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:112
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:118
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:118
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:118
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:139
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:141
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:143
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:145
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:147
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:149
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:152
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:154
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:156
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:158
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:160
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:162
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:164
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:166
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:168
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:171
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:175
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:177
+msgid "Archives"
+msgstr ""
+
+#: option-panel/includes/class-options-media-uploader.php:60
+msgid "No file chosen"
+msgstr ""
+
+#: option-panel/includes/class-options-media-uploader.php:63
+msgid "Upload"
+msgstr ""
+
+#: option-panel/includes/class-options-media-uploader.php:65
+#: option-panel/includes/class-options-media-uploader.php:78
+msgid "Remove"
+msgstr ""
+
+#: option-panel/includes/class-options-media-uploader.php:68
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: option-panel/includes/class-options-rara-admin.php:89
+msgid "Theme Options"
+msgstr ""
+
+#: option-panel/includes/class-options-rara-admin.php:194
+msgid "Theme Options by"
+msgstr ""
+
+#: option-panel/includes/class-options-rara-admin.php:203
+msgid "View Demo"
+msgstr ""
+
+#: option-panel/includes/class-options-rara-admin.php:223
+msgid "Save All Changes"
+msgstr ""
+
+#: option-panel/includes/class-options-rara-admin.php:224
+msgid "Restore Defaults"
+msgstr ""
+
+#: option-panel/includes/class-options-rara-admin.php:224
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: option-panel/includes/class-options-rara-admin.php:225
+msgid "Default options restored."
+msgstr ""
+
+#: option-panel/includes/class-options-rara-admin.php:225
+msgid "Options saved."
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:313
+msgid "No Repeat"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:314
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:315
+msgid "Repeat Vertically"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:316
+msgid "Repeat All"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:328
+msgid "Top Left"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:329
+msgid "Top Center"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:330
+msgid "Top Right"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:331
+msgid "Middle Left"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:332
+msgid "Middle Center"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:333
+msgid "Middle Right"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:334
+msgid "Bottom Left"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:335
+msgid "Bottom Center"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:336
+msgid "Bottom Right"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:348
+msgid "Scroll Normally"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:349
+msgid "Fixed in Place"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:421
+msgid "Normal"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:422
+msgid "Italic"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:423
+msgid "Bold"
+msgstr ""
+
+#: option-panel/includes/class-options-sanitization.php:424
+msgid "Bold Italic"
+msgstr ""
+
+#: options.php:23
+msgid "One"
+msgstr ""
+
+#: options.php:24
+msgid "Two"
+msgstr ""
+
+#: options.php:25
+msgid "Three"
+msgstr ""
+
+#: options.php:26
+msgid "Four"
+msgstr ""
+
+#: options.php:27
+msgid "Five"
+msgstr ""
+
+#: options.php:49
+msgid "Select a page:"
+msgstr ""
+
+#: options.php:60
+msgid "Home Page Options"
+msgstr ""
+
+#: options.php:72
+msgid "Upload Logo"
+msgstr ""
+
+#: options.php:102
+msgid "Featured Slider Option"
+msgstr ""
+
+#: options.php:107
+msgid "Featured Slider Post/Page #1"
+msgstr ""
+
+#: options.php:113
+msgid "Featured Slider Post/Page #2"
+msgstr ""
+
+#: options.php:121
+msgid "Featured Slider Post/Page #3"
+msgstr ""
+
+#: options.php:127
+msgid "Featured Slider Post/Page #4"
+msgstr ""
+
+#: options.php:133
+msgid "Featured Slider Post/Page #5"
+msgstr ""
+
+#: options.php:140
+msgid "The following are the steps on how to use the Featured Slider."
+msgstr ""
+
+#: options.php:141
+msgid ""
+"1. Create a post/page and add a featured image to it. <br>  2. Add Post/Page "
+"ID of all the pages/posts that you want to display in the featured slider. "
+"<br><br> (You can see the Posts and pages respective ID in the All Posts "
+"table in last column.)"
+msgstr ""
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:99
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:112
+msgid "Footer First"
+msgstr ""
+
+#: functions.php:121
+msgid "Footer Second"
+msgstr ""
+
+#: functions.php:130
+msgid "Footer Third"
+msgstr ""
