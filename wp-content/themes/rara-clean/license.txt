@@ -1,0 +1,55 @@
+== Rara Clean ==
+
+Description: Rara Clean is a simple and clean WordPress blog theme. It is responsive and adopts to various screen sizes, ensuring that your content is perfectly displayed to the visitors using tablets and mobile devices. If you are looking for a clean and professional blog theme that compliments your visuals and also provides you ample space for text, Rara Clean is perfect for you. Along with the clean design the theme comes with Theme Options and includes featured Slider to highlight your posts and pages. It also has 3 widgets under the main content. This theme is translation ready and is currently translated in Russian, Chinese, French, Danish, Portuguese, Dutch, German and Spanish.
+Check out Theme Demo at http://demo.raratheme.com/rara-clean/
+
+/**********************************************************/
+== COPYRIGHT AND LICENSE ==
+
+External resources linked to the theme.
+* Ubuntu Font by through Google Font http://fonts.googleapis.com/css?family=Ubuntu:400,500,700,300
+  Apache License, version 2.0 http://www.apache.org/licenses/LICENSE-2.0.html
+
+Resources packed within the theme.
+* Font Awesome: SIL OFL 1.1 license
+   http://fontawesome.io/license/
+* Image in the screenshot and other required images are from shoot by own and licensed under the same license as this theme
+   Copyright: Rara Theme 2015, http://raratheme.com/
+* Rara Clean WordPress Theme is derived from Underscores WordPress Theme, Copyright 2013 Automattic, Inc.
+  Underscores WordPress Theme is distributed under the terms of the GNU GPL
+* Options Framework by WP Theming licensed under the GPLv2 license (http://www.gnu.org/licenses/gpl-2.0.html)
+* Other custom js files are our own creation and is licensed under the same license as this theme.
+
+All other resources and theme elements are licensed under the [GNU GPL](http://www.gnu.org/licenses/gpl-3.0.txt), version 3
+
+Rara Clean WordPress Theme, Copyright 2015 Rara Theme
+Rara Clean is distributed under the terms of the GNU GPL
+
+*  This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+/**********************************************************/
+/**********************************************************/
+
+== THEME USAGE ==
+
+= Theme Features Usage =
+All available options can be used from Appearance->Theme Options
+
+/**********************************************************/
+
+== CHANGE LOG ==
+
+ VER 1.7
+ Backend
+    1. Added Recent Post Widget
+    2. Change in entering post/page id to listing of post/page.
+    3. Added different image sizes.
+    4. Sudin Manandhar: Also added editor style
+
+Frontend
+    1. Upgrade slider codes.
+    2. Added comment links in the index and archive pages.
+    3. Fix preformatted text in typography

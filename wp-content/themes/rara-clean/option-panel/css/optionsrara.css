@@ -1,0 +1,304 @@
+/* Options rara Admin Styles */
+body.wp-admin{overflow-x: hidden;}
+.metabox-holder h3 {
+    font-size: 14px;
+    line-height: 1.4;
+    margin: 0;
+    padding: 8px 12px;
+}
+#optionsrara {
+    max-width:840px;
+    background:#fff;
+}
+#optionsrara h3 {
+	background-color: #f1f1f1;
+    border-bottom: 1px solid #ddd;
+    cursor: default;
+    margin: 0;
+}
+#optionsrara p {
+	margin-bottom:0;
+	padding-bottom:10px;
+}
+#optionsrara .section {
+	padding:10px 10px 0;
+}
+#optionsrara .group {
+	padding-bottom:40px;
+}
+#optionsrara .section .controls {
+	float: left;
+	min-width:350px;
+	width: 54%;
+	padding-right:2%;
+}
+#optionsrara .section .explain {
+	max-width:38%;
+	float: left;
+	font-size: 12px;
+	line-height:16px;
+	color: #777;
+}
+#optionsrara .section-checkbox .controls {
+	width: 98%;
+}
+#optionsrara .section-checkbox .explain {
+	max-width:94%;
+}
+#optionsrara .controls input[type=text] {
+	width:100%;
+}
+#optionsrara .controls input[type=text].wp-color-picker {
+    width: 65px;
+}
+#optionsrara .controls select, #optionsrara .controls textarea {
+	margin-bottom:10px;
+	width:100%;
+}
+#optionsrara .section-radio label, #optionsrara .section-multicheck label {
+	float:left;
+	max-width:90%;
+	line-height: 16px;
+	margin-bottom: 5px;
+}
+#optionsrara input.checkbox, #optionsrara input.of-radio {
+	margin: 0 10px 5px 0;
+	float:left;
+	clear:both;
+}
+#optionsrara .section-typography .controls {
+	float:none;
+	width:auto;
+}
+#optionsrara .section-typography .explain {
+	float:none;
+	width:auto;
+}
+#optionsrara .controls .of-typography-size {
+	width:80px;
+	float:left
+}
+#optionsrara .controls .of-typography-unit {
+	width:50px;
+	margin-left:5px;
+	float:left
+}
+#optionsrara .controls .of-typography-face {
+	width:100px;
+	margin-left:5px;
+	float:left
+}
+#optionsrara .controls .of-typography-style {
+	width:80px;
+	margin-left:5px;
+	margin-right:5px;
+	float:left
+}
+#optionsrara .section-typography .wp-picker-container {
+	margin-top:2px;
+}
+#optionsrara .of-background-properties {
+	clear:both;
+	margin-top: 18px;
+}
+#optionsrara .controls .of-background-repeat {
+	width:125px;
+	margin-right:5px;
+	float:left
+}
+#optionsrara .controls .of-background-position {
+	width:125px;
+	margin-right:5px;
+	float:left
+}
+#optionsrara .controls .of-background-attachment {
+	width:125px;
+	margin-right:5px;
+	float:left
+}
+#optionsrara .section-background .wp-picker-container {
+	margin-bottom:10px;
+}
+#optionsrara .controls .of-radio-img-img {
+	border:3px solid #f9f9f9;
+	margin:0 5px 10px 0;
+	display:none;
+	cursor:pointer;
+	float:left;
+}
+#optionsrara .controls .of-radio-img-selected {
+	border:3px solid #ccc
+}
+#optionsrara .controls .of-radio-img-img:hover {
+	opacity:.8;
+}
+#optionsrara .controls .of-border-width {
+	width:80px;
+	float:left
+}
+#optionsrara .controls .of-border-style {
+	width:120px;
+	float:left
+}
+#optionsrara .hide {
+	display:none;
+}
+#optionsrara .of-option-image {
+	max-width:340px;
+	margin:3px 0 18px 0;
+}
+#optionsrara .mini .controls select, #optionsrara .section .mini .controls {
+	width: 140px;
+}
+#optionsrara .mini .controls input, #optionsrara .mini .controls {
+	min-width:140px;
+	width: 140px;
+}
+#optionsrara .mini .explain {
+	max-width:74%;
+}
+
+/* Editor */
+
+#optionsrara .section-editor .explain {
+	max-width: 98%;
+	float:none;
+	margin-bottom:5px;
+}
+
+/* Image Uploader */
+
+#optionsrara .controls input.upload {
+	width:80%;
+}
+#optionsrara .screenshot {
+	float:left;
+	margin-left:1px;
+	position:relative;
+	width:344px;
+	margin-top:3px;
+}
+#optionsrara .screenshot img {
+	background:#fafafa;
+	border-color:#ccc #eee #eee #ccc;
+	border-style:solid;
+	border-width:1px;
+	float:left;
+	max-width:334px;
+	padding:4px;
+	margin-bottom:10px;
+}
+#optionsrara .screenshot .remove-image {
+	background:url("../images/ico-delete.png") no-repeat;
+	border:medium none;
+	bottom:4px;
+	display:block;
+	float:left;
+	height:16px;
+	padding:0;
+	position:absolute;
+	left:-4px;
+	text-indent:-9999px;
+	width:16px;
+}
+#optionsrara .screenshot .no_image .file_link {
+	margin-left: 20px;
+}
+#optionsrara .screenshot .no_image .remove-button {
+	bottom: 0px;
+}
+#optionsrara .reset-button {
+	float:left;
+	cursor:pointer;
+}
+
+/* Bottom Section */
+
+#optionsrara-submit {
+	padding: 7px 10px;
+	border-top: 1px solid #ddd;
+	background-color: #f1f1f1;
+}
+#optionsrara .button-primary {
+	float:right;
+}
+#optionsrara .section:after {
+	content: "";
+	display: table;
+}
+#optionsrara .section:after {
+	clear: both;
+}
+
+.donate-info {
+/*background-color: #fff;*/
+margin: 0 20px 25px 2px;
+/*border: 1px solid #ddd;*/
+position: relative;
+padding: 0px 20px 30px 11px;
+font-size: 17px;
+color: #555;
+/*-webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+-moz-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);*/
+text-align: left;
+display: inline-block;
+width: 100%;
+}
+a.upgrade, a.instruction {
+background-color: #0074A2;
+}
+.donate-info a {
+font-size: 14px;
+padding: 8px 18px;
+margin: 15px 10px 0 0;
+opacity: 0.9;
+-moz-opacity: 0.9;
+filter: alpha(opacity=90);
+text-align: center;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+border-radius: 2px;
+text-decoration: none;
+display: inline-block;
+color: #fff;
+}
+a.donate, a.support {
+background-color: #E1980F;
+}
+a.review, a.demo {
+background-color: #46A314;
+}
+#social-share {
+bottom: 42px;
+position: absolute;
+right: 22px;
+}
+#social-share .fb-like {
+float: left;
+vertical-align: top;
+margin-right: 10px;
+}
+.fb_iframe_widget {
+display: inline-block;
+position: relative;
+}
+.clearfix {
+	clear: both;
+}
+.them_option_block {
+margin-top: 10px;
+}
+.theme_option_title {
+float: left;
+padding-right: 10px;
+}
+.nav-tab-active, .nav-tab-active:hover {
+background: #1A82AB !important;
+color: #FFFFFF !important;
+}
+.theme_option_title a {
+text-decoration: none;
+}
+h4.heading { font-size: 13px;}
+.section.section-info { font-size: 13px; line-height: 22px; }
