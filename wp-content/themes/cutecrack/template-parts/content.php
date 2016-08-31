@@ -37,7 +37,7 @@
 	</div><!-- .entry-summary -->
 
 	<div class="entry-more">
-		<a href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>"><?php esc_html_e( 'Continue Reading', 'boston' ); ?></a>
+		<a href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>"><?php esc_html_e( 'link', 'boston' ); ?></a>
 	</div>
 
 	<footer class="entry-footer">
